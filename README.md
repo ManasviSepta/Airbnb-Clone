@@ -12,7 +12,7 @@ A full-stack travel accommodation listing platform inspired by Airbnb. Built usi
 🔒 Session-based user access control with Passport.js
 📱 Fully responsive frontend (EJS + Bootstrap)
 🛠️ Tech Stack
-Technology	Description
+Technology Description
 Node.js	Server-side JavaScript runtime
 Express	Web framework for Node.js
 MongoDB	NoSQL database for storing listings, users, reviews
@@ -20,3 +20,4 @@ Mongoose	ODM for MongoDB
 EJS	Templating engine for rendering views
 Cloudinary	Image hosting and manipulation
 Passport.js	Authentication middleware
+
