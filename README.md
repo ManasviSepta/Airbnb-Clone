@@ -21,4 +21,8 @@ A full-stack travel accommodation listing platform inspired by Airbnb. Built usi
 | **EJS**         | Templating engine for dynamic views             |
 | **Bootstrap**   | Responsive UI design                            |
 | **Cloudinary**  | Image hosting and optimization                  |
-| **Passport.js** | Authentication middleware                       |
+| **Passport.js** | Authentication middleware    
+|
+<img width="1162" height="618" alt="Screenshot 2025-12-30 193917" src="https://github.com/user-attachments/assets/8542de0a-d044-4a0c-aa7a-584b892fd6d0" />
+
+
