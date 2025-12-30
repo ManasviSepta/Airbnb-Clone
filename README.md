@@ -28,7 +28,7 @@ A full-stack travel accommodation listing platform inspired by Airbnb. Built usi
 <img width="1232" height="591" alt="Screenshot 2025-12-30 193949" src="https://github.com/user-attachments/assets/7c639479-4066-41bc-9d4b-5df72e9e7dd4" />
 📦 Installation
 # Clone the repository
-git clone https://github.com/Jayesh72/Airbnb-clone.git
+git clone https://github.com/ManasviSepta/Airbnb-clone.git
 
 # Navigate to the project directory
 cd wanderstay
@@ -44,6 +44,7 @@ CLOUD_API_SECRET=your_secret
 
 # Start the server
 node app.js
+
 
 
 
